@@ -1,3 +1,5 @@
+> 本文是参考[廖雪峰](https://www.liaoxuefeng.com/wiki/896043488029600)的git教程编写的个人笔记！
+
 # 1、常用命令
 
 * git init——初始化一个Git仓库
