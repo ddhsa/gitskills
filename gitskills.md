@@ -25,6 +25,8 @@
 	* git config --global user.name ""
 	* git config --global user.email ""
 * git remote add origin git@server-name:path/repo-name.git——关联远程库
+* git remote remove <name>——删除远程关联
+* git remote show <name>——显示当前远程库的状态
 * git push -u origin master——第一次推送master分支的所有内容，之后可以用git push origin master推送最新修改
 * git clone——克隆远程仓库
 * git branch——查看分支
